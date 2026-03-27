@@ -15,7 +15,7 @@ Proje kapsamında üç farklı yerel ağ (LAN), seri bağlantılarla (WAN) birbi
 
 Ağ üzerinde toplam 5 farklı alt ağ (subnet) ve 1 adet dış ağ bağlantısı (internet simülasyonu) bulunmaktadır:
 
-![topologyy](topology.png)
+![topology](topologyy.png)
 
 **Yerel Ağlar (LAN):**
 * **Şube 1 (R1):** `192.168.10.0/24`
